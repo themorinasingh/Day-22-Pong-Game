@@ -1,0 +1,7 @@
+1) Create a board file.
+2) Setup a board class and add the movement ability
+3) Create a bal class
+4) Allow it to move using a while loop and also allow it to detect the collision on the celing and floor
+5) Add functionality, in case it passes behined either board to end the game.
+6) run game over sequence if that happens.
+7) add obstackle classes
